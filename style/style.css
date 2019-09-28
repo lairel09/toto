@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+}
+.header{
+    background: #1e2327;
+    height: 100px;
+    color: white;
+    font-size: 38px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    padding-right: 1300px;
+    
+}
+.header a {
+    text-decoration: none;
+     color: white;
+     
+}
+
+.test{
+    width: 6.5in;
+}
+form{
+    background: gray;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+     height: 150px;
+}
+li{
+    padding: 20px;
+    border: 2px dotted black;
+    text-align: right;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+  
+    }
